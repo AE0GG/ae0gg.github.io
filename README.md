@@ -40,7 +40,7 @@ Need help learning something or getting started? Reach out to a [volunteer facil
 🟩 Add Info: Volunteer Facilitators<br>
 🟥 Link NWS Skywarn Spotter Sheet<br>
 
-###### For more information, [README](https://github.com/AE0GG/main/blob/main/README.md).
+###### For more information about this project, [README](https://github.com/AE0GG/main/blob/main/README.md).
 
 ----------
 
