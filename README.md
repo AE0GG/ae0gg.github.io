@@ -1,5 +1,4 @@
 ## Collection of licensed and unlicensed radio resources.
-###### For more information, [README](https://github.com/AE0GG/main/blob/main/README.md).
 
 ## Table of Contents
 - [ARRL Examinations](https://github.com/AE0GG/main/blob/main/ARRL%20Examinations.md)
@@ -40,6 +39,8 @@ Need help learning something or getting started? Reach out to a [volunteer facil
 🟨 Add Info: Reticulum<br>
 🟩 Add Info: Volunteer Facilitators<br>
 🟥 Link NWS Skywarn Spotter Sheet<br>
+
+###### For more information, [README](https://github.com/AE0GG/main/blob/main/README.md).
 
 ----------
 
