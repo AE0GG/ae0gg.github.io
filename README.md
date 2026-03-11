@@ -1,4 +1,4 @@
-## A collection of licensed and unlicensed radio links and information.
+## Collection of licensed and unlicensed radio resources.
 ###### For more information, [README](https://github.com/AE0GG/main/blob/main/README.md).
 
 ## Table of Contents
