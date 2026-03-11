@@ -1,5 +1,4 @@
-# PuNk Radio
-#### A collection of licensed and unlicensed radio links and information.
+## A collection of licensed and unlicensed radio links and information.
 ###### For more information, [README](https://github.com/AE0GG/main/blob/main/README.md).
 
 > [!NOTE]
