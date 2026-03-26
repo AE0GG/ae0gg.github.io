@@ -1,6 +1,6 @@
 # Table of Contents
-- [ARRL Examinations](https://ae0gg.github.io/ARRL%20Examinations)
-- [Amateur Radio Emergency Data Network (AREDN)](https://ae0gg.github.io/Amateur%20Radio%20Emergency%20Data%20Network%20(AREDN))
+[ARRL Examinations](https://ae0gg.github.io/ARRL%20Examinations)
+## [Amateur Radio Emergency Data Network (AREDN)](https://ae0gg.github.io/Amateur%20Radio%20Emergency%20Data%20Network%20(AREDN))
 - [Amateur Radio Emergency Service (ARES)](https://ae0gg.github.io/Amateur%20Radio%20Emergency%20Service%20(ARES))
 - [Automatic Packet Reporting System (APRS)](https://ae0gg.github.io/Automatic%20Packet%20Reporting%20System%20(APRS))
 - [Auxiliary Communications Service (ACS)](https://ae0gg.github.io/Auxiliary%20Communication%20Service%20(ACS))
