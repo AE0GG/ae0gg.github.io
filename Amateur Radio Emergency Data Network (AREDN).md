@@ -1,8 +1,3 @@
----
-layout: default
-title: Amateur Radio Emergency Data Network
----
-
 # Amateur Radio Emergency Data Network (AREDN)
 Google AI Overview
 > AREDN® (Amateur Radio Emergency Data Network) is a high-speed, self-healing mesh network developed by amateur radio operators to create resilient, independent data communication links during emergencies. It repurposes commercial Wi-Fi hardware to operate on ham radio frequencies, providing IP-based services like VoIP, email, and file sharing without relying on internet infrastructure.
