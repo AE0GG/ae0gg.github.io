@@ -25,10 +25,10 @@
 - [ARRL Licensing Classes](https://www.arrl.org/online-classes)
 - [ARRL Exam Review for Ham Radio](https://www.arrl.org/exam-review)
 - [HamTestOnline](https://www.hamtestonline.com)
-## Operating Resources
+### Operating Resources
 - [Band Plan for Amateur Radio](https://www.arrl.org/band-plan)
 
-## Unsorted
+### Unsorted
 - [Radio Reference](https://www.radioreference.com/)
 
 
@@ -43,7 +43,7 @@ Need help learning something or getting started? Reach out to a [volunteer facil
 🟩 Move Data To Individual Pages<br>
 🟩 Convert PuNk Radio to Webpage Appearance
 🟥 Add Info: ARRL Examinations<br>
-🟨 Add Info: AREDN<br>
+🟩 Add Info: AREDN<br>
 🟨 Add Info: ARES<br>
 🟥 Add Info: APRS<br>
 🟥 Add Info: ACS<br>
@@ -57,6 +57,7 @@ Need help learning something or getting started? Reach out to a [volunteer facil
 🟨 Add Info: Reticulum<br>
 🟩 Add Info: Volunteer Facilitators<br>
 🟥 Link NWS Skywarn Spotter Sheet<br>
+🟥 Polish appearance of resource pages<br>
 
 ----------
 
