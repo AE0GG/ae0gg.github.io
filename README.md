@@ -1,6 +1,4 @@
-# PuNk Radio
-
-## Table of Contents
+# Table of Contents
 - [ARRL Examinations](https://ae0gg.github.io/ARRL%20Examinations)
 - [Amateur Radio Emergency Data Network (AREDN)](https://ae0gg.github.io/Amateur%20Radio%20Emergency%20Data%20Network%20(AREDN))
 - [Amateur Radio Emergency Service (ARES)](https://ae0gg.github.io/Amateur%20Radio%20Emergency%20Service%20(ARES))
@@ -18,7 +16,7 @@
 
 Need help learning something or getting started? Reach out to a [volunteer facilitator](https://ae0gg.github.io/Volunteer%20Facilitators).
 
-## Backlog
+# Backlog
 🟩 Transfer information from Google Doc<br>
 🟩 Publish/share this page<br>
 🟩 Rework: Improve Mobile Experience<br>
