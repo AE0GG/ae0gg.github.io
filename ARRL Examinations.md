@@ -1,6 +1,5 @@
 ---
-layout: default
-title: ARRL Examinations
+theme: default
 ---
 
 # ARRL Examinations
