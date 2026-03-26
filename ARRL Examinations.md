@@ -1,6 +1,9 @@
 ---
 theme: default
 ---
+---
+theme: default
+---
 
 # ARRL Examinations
 Google AI Overview
