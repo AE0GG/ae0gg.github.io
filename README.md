@@ -1,22 +1,22 @@
 # PuNk Radio
 
 ## Table of Contents
-- [ARRL Examinations](https://github.com/AE0GG/ae0gg.github.io/blob/main/ARRL%20Examinations.md)
-- [Amateur Radio Emergency Data Network (AREDN)](https://github.com/AE0GG/ae0gg.github.io/blob/main/Amateur%20Radio%20Emergency%20Data%20Network%20(AREDN).md)
-- [Amateur Radio Emergency Service (ARES)](https://github.com/AE0GG/ae0gg.github.io/blob/main/Amateur%20Radio%20Emergency%20Service%20(ARES).md)
-- [Automatic Packet Reporting System (APRS)](https://github.com/AE0GG/ae0gg.github.io/blob/main/Automatic%20Packet%20Reporting%20System%20(APRS).md)
-- [Auxiliary Communications Service (ACS)](https://github.com/AE0GG/ae0gg.github.io/blob/main/Auxiliary%20Communication%20Service%20(ACS).md)
-- [Continuous Wave (CW) - Morse Code](https://github.com/AE0GG/ae0gg.github.io/blob/main/Continuous%20Wave%20(CW)%20-%20Morse%20Code.md)
-- [General Mobile Radio Service (GMRS)](https://github.com/AE0GG/ae0gg.github.io/blob/main/General%20Mobile%20Radio%20Service%20(GMRS).md)
-- [High Frequency (HF)](https://github.com/AE0GG/ae0gg.github.io/blob/main/High%20Frequency%20(HF).md)
-- [MeshCore](https://github.com/AE0GG/ae0gg.github.io/blob/main/MeshCore.md)
-- [Meshtastic](https://github.com/AE0GG/ae0gg.github.io/blob/main/Meshtastic.md)
-- [National Weather Service (NWS) Skywarn](https://github.com/AE0GG/ae0gg.github.io/blob/main/National%20Weather%20Service%20(NWS)%20-%20Skywarn.md)
-- [Parks, Summits, & Islands On The Air (POTA, SOTA, IOTA)](https://github.com/AE0GG/ae0gg.github.io/blob/main/Parks%2C%20Summits%2C%20%26%20Islands%20On%20The%20Air%20(POTA%2C%20SOTA%2C%20IOTA).md)
-- [Radio Tools](https://github.com/AE0GG/ae0gg.github.io/blob/main/Radio%20Tools.md)
-- [Reticulum](https://github.com/AE0GG/ae0gg.github.io/blob/main/Reticulum.md)
+- [ARRL Examinations](https://ae0gg.github.io/ARRL%20Examinations)
+- [Amateur Radio Emergency Data Network (AREDN)](https://ae0gg.github.io/blob/main/Amateur%20Radio%20Emergency%20Data%20Network%20(AREDN))
+- [Amateur Radio Emergency Service (ARES)](https://ae0gg.github.io/blob/main/Amateur%20Radio%20Emergency%20Service%20(ARES))
+- [Automatic Packet Reporting System (APRS)](https://ae0gg.github.io/blob/main/Automatic%20Packet%20Reporting%20System%20(APRS))
+- [Auxiliary Communications Service (ACS)](https://ae0gg.github.io/blob/main/Auxiliary%20Communication%20Service%20(ACS))
+- [Continuous Wave (CW) - Morse Code](https://ae0gg.github.io/blob/main/Continuous%20Wave%20(CW)%20-%20Morse%20Code)
+- [General Mobile Radio Service (GMRS)](https://ae0gg.github.io/blob/main/General%20Mobile%20Radio%20Service%20(GMRS))
+- [High Frequency (HF)](https://ae0gg.github.io/blob/main/High%20Frequency%20(HF))
+- [MeshCore](https://ae0gg.github.io/blob/main/MeshCore)
+- [Meshtastic](https://ae0gg.github.io/blob/main/Meshtastic)
+- [National Weather Service (NWS) Skywarn](https://ae0gg.github.io/blob/main/National%20Weather%20Service%20(NWS)%20-%20Skywarn)
+- [Parks, Summits, & Islands On The Air (POTA, SOTA, IOTA)](https://ae0gg.github.io/blob/main/Parks%2C%20Summits%2C%20%26%20Islands%20On%20The%20Air%20(POTA%2C%20SOTA%2C%20IOTA))
+- [Radio Tools](https://ae0gg.github.io/blob/main/Radio%20Tools)
+- [Reticulum](https://ae0gg.github.io/blob/main/Reticulum)
 
-Need help learning something or getting started? Reach out to a [volunteer facilitator](https://github.com/AE0GG/ae0gg.github.io/blob/main/Volunteer%20Facilitators.md).
+Need help learning something or getting started? Reach out to a [volunteer facilitator](https://ae0gg.github.io/blob/main/Volunteer%20Facilitators).
 
 ## Backlog
 🟩 Transfer information from Google Doc<br>
@@ -39,8 +39,6 @@ Need help learning something or getting started? Reach out to a [volunteer facil
 🟨 Add Info: Reticulum<br>
 🟩 Add Info: Volunteer Facilitators<br>
 🟥 Link NWS Skywarn Spotter Sheet<br>
-
-###### For more information about this project, [README](https://github.com/AE0GG/ae0gg.github.io/blob/main/README.md).
 
 ----------
 
