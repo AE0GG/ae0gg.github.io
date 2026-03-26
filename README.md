@@ -1,4 +1,4 @@
-# Table of Contents
+# Resource Pages
 - [ARRL Examinations](https://ae0gg.github.io/ARRL%20Examinations)
 - [Amateur Radio Emergency Data Network (AREDN)](https://ae0gg.github.io/Amateur%20Radio%20Emergency%20Data%20Network%20(AREDN))
 - [Amateur Radio Emergency Service (ARES)](https://ae0gg.github.io/Amateur%20Radio%20Emergency%20Service%20(ARES))
@@ -13,6 +13,25 @@
 - [Parks, Summits, & Islands On The Air (POTA, SOTA, IOTA)](https://ae0gg.github.io/Parks%2C%20Summits%2C%20%26%20Islands%20On%20The%20Air%20(POTA%2C%20SOTA%2C%20IOTA))
 - [Radio Tools](https://ae0gg.github.io/Radio%20Tools)
 - [Reticulum](https://ae0gg.github.io/Reticulum)
+
+# Additional Tools
+## General
+- [American Radio Relay League (ARRL)](https://www.arrl.org/)
+- [QRZ.com](https://www.qrz.com/)
+- [Ham Radio Outlet (HRO)](https://www.hamradio.com/)
+- [eHam.net](https://www.eham.net/)
+- [The DXZone](https://www.dxzone.com/)
+## Licensing & Training
+- [ARRL Licensing Classes](https://www.arrl.org/online-classes)
+- [ARRL Exam Review for Ham Radio](https://www.arrl.org/exam-review)
+- [HamTestOnline](https://www.hamtestonline.com)
+## Operating Resources
+- [Band Plan for Amateur Radio](https://www.arrl.org/band-plan)
+
+## Unsorted
+- [Radio Reference](https://www.radioreference.com/)
+
+
 
 Need help learning something or getting started? Reach out to a [volunteer facilitator](https://ae0gg.github.io/Volunteer%20Facilitators).
 
