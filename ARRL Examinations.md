@@ -1,8 +1,5 @@
 ---
-theme: default
----
----
-theme: default
+theme: 
 ---
 
 # ARRL Examinations
