@@ -2,22 +2,22 @@
 ## Collection of licensed and unlicensed radio resources.
 
 ## Table of Contents
-- [ARRL Examinations](https://github.com/AE0GG/main/blob/main/ARRL%20Examinations.md)
-- [Amateur Radio Emergency Data Network (AREDN)](https://github.com/AE0GG/main/blob/main/Amateur%20Radio%20Emergency%20Data%20Network%20(AREDN).md)
-- [Amateur Radio Emergency Service (ARES)](https://github.com/AE0GG/main/blob/main/Amateur%20Radio%20Emergency%20Service%20(ARES).md)
-- [Automatic Packet Reporting System (APRS)](https://github.com/AE0GG/main/blob/main/Automatic%20Packet%20Reporting%20System%20(APRS).md)
-- [Auxiliary Communications Service (ACS)](https://github.com/AE0GG/main/blob/main/Auxiliary%20Communication%20Service%20(ACS).md)
-- [Continuous Wave (CW) - Morse Code](https://github.com/AE0GG/main/blob/main/Continuous%20Wave%20(CW)%20-%20Morse%20Code.md)
-- [General Mobile Radio Service (GMRS)](https://github.com/AE0GG/main/blob/main/General%20Mobile%20Radio%20Service%20(GMRS).md)
-- [High Frequency (HF)](https://github.com/AE0GG/main/blob/main/High%20Frequency%20(HF).md)
-- [MeshCore](https://github.com/AE0GG/main/blob/main/MeshCore.md)
-- [Meshtastic](https://github.com/AE0GG/main/blob/main/Meshtastic.md)
-- [National Weather Service (NWS) Skywarn](https://github.com/AE0GG/main/blob/main/National%20Weather%20Service%20(NWS)%20-%20Skywarn.md)
-- [Parks, Summits, & Islands On The Air (POTA, SOTA, IOTA)](https://github.com/AE0GG/main/blob/main/Parks%2C%20Summits%2C%20%26%20Islands%20On%20The%20Air%20(POTA%2C%20SOTA%2C%20IOTA).md)
-- [Radio Tools](https://github.com/AE0GG/main/blob/main/Radio%20Tools.md)
-- [Reticulum](https://github.com/AE0GG/main/blob/main/Reticulum.md)
+- [ARRL Examinations](https://github.com/AE0GG/ae0gg.github.io/blob/main/ARRL%20Examinations.md)
+- [Amateur Radio Emergency Data Network (AREDN)](https://github.com/AE0GG/ae0gg.github.io/blob/main/Amateur%20Radio%20Emergency%20Data%20Network%20(AREDN).md)
+- [Amateur Radio Emergency Service (ARES)](https://github.com/AE0GG/ae0gg.github.io/blob/main/Amateur%20Radio%20Emergency%20Service%20(ARES).md)
+- [Automatic Packet Reporting System (APRS)](https://github.com/AE0GG/ae0gg.github.io/blob/main/Automatic%20Packet%20Reporting%20System%20(APRS).md)
+- [Auxiliary Communications Service (ACS)](https://github.com/AE0GG/ae0gg.github.io/blob/main/Auxiliary%20Communication%20Service%20(ACS).md)
+- [Continuous Wave (CW) - Morse Code](https://github.com/AE0GG/ae0gg.github.io/blob/main/Continuous%20Wave%20(CW)%20-%20Morse%20Code.md)
+- [General Mobile Radio Service (GMRS)](https://github.com/AE0GG/ae0gg.github.io/blob/main/General%20Mobile%20Radio%20Service%20(GMRS).md)
+- [High Frequency (HF)](https://github.com/AE0GG/ae0gg.github.io/blob/main/High%20Frequency%20(HF).md)
+- [MeshCore](https://github.com/AE0GG/ae0gg.github.io/blob/main/MeshCore.md)
+- [Meshtastic](https://github.com/AE0GG/ae0gg.github.io/blob/main/Meshtastic.md)
+- [National Weather Service (NWS) Skywarn](https://github.com/AE0GG/ae0gg.github.io/blob/main/National%20Weather%20Service%20(NWS)%20-%20Skywarn.md)
+- [Parks, Summits, & Islands On The Air (POTA, SOTA, IOTA)](https://github.com/AE0GG/ae0gg.github.io/blob/main/Parks%2C%20Summits%2C%20%26%20Islands%20On%20The%20Air%20(POTA%2C%20SOTA%2C%20IOTA).md)
+- [Radio Tools](https://github.com/AE0GG/ae0gg.github.io/blob/main/Radio%20Tools.md)
+- [Reticulum](https://github.com/AE0GG/ae0gg.github.io/blob/main/Reticulum.md)
 
-Need help learning something or getting started? Reach out to a [volunteer facilitator](https://github.com/AE0GG/main/blob/main/Volunteer%20Facilitators.md).
+Need help learning something or getting started? Reach out to a [volunteer facilitator](https://github.com/AE0GG/ae0gg.github.io/blob/main/Volunteer%20Facilitators.md).
 
 ## Backlog
 🟩 Transfer information from Google Doc<br>
@@ -41,7 +41,7 @@ Need help learning something or getting started? Reach out to a [volunteer facil
 🟩 Add Info: Volunteer Facilitators<br>
 🟥 Link NWS Skywarn Spotter Sheet<br>
 
-###### For more information about this project, [README](https://github.com/AE0GG/main/blob/main/README.md).
+###### For more information about this project, [README](https://github.com/AE0GG/ae0gg.github.io/blob/main/README.md).
 
 ----------
 
