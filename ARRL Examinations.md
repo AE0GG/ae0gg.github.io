@@ -1,4 +1,3 @@
-[[ Home ]](https://ae0gg.github.io/)
 # ARRL Examinations
 Google AI Overview
 > ARRL examinations are official, Volunteer Examiner (VE)-proctored tests required to earn or upgrade a U.S. Amateur Radio (Ham Radio) license—Technician, General, or Amateur Extra. Administered by the ARRL Volunteer Examiner Coordinator (VEC) program, these exams, often held in-person or online, cover radio regulations, operating practices, and electronics theory.
@@ -13,6 +12,6 @@ Google AI Overview
 
 ----------
 
-Return to main [PuNk Radio](https://github.com/AE0GG/main/blob/main/PuNk_Radio.md) page
+Return to main [PuNk Radio](https://ae0gg.github.io) page
 
 Have information to add, edit, or update? Need something deleted? [Leave feedback](https://forms.gle/VdfJDC5vi1kbXSSW6)
