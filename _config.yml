@@ -2,3 +2,6 @@ title: PuNk Radio
 description: Licensed & Unlicensed Radio Resources
 theme: jekyll-theme-slate
 baseurl: ""
+navigation:
+- title: Home
+url: /
