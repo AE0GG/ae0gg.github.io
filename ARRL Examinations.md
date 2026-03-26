@@ -1,7 +1,3 @@
----
-theme: 
----
-
 # ARRL Examinations
 Google AI Overview
 > ARRL examinations are official, Volunteer Examiner (VE)-proctored tests required to earn or upgrade a U.S. Amateur Radio (Ham Radio) license—Technician, General, or Amateur Extra. Administered by the ARRL Volunteer Examiner Coordinator (VEC) program, these exams, often held in-person or online, cover radio regulations, operating practices, and electronics theory.
