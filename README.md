@@ -16,22 +16,22 @@
 
 # Resource Links
 
-## General
+### General
 - [American Radio Relay League (ARRL)](https://www.arrl.org/)
 - [QRZ.com](https://www.qrz.com/)
 - [Ham Radio Outlet (HRO)](https://www.hamradio.com/)
 - [eHam.net](https://www.eham.net/)
 - [The DXZone](https://www.dxzone.com/)
 
-## Licensing & Training
+### Licensing & Training
 - [ARRL Licensing Classes](https://www.arrl.org/online-classes)
 - [ARRL Exam Review for Ham Radio](https://www.arrl.org/exam-review)
 - [HamTestOnline](https://www.hamtestonline.com)
 
-## Operating Resources
+### Operating Resources
 - [Band Plan for Amateur Radio](https://www.arrl.org/band-plan)
 
-## Unsorted
+### Unsorted
 - [Radio Reference](https://www.radioreference.com/)
 
 Need help learning something or getting started? Reach out to a [volunteer facilitator](https://ae0gg.github.io/Volunteer%20Facilitators).
