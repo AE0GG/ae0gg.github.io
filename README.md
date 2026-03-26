@@ -14,7 +14,7 @@
 - [Radio Tools](https://ae0gg.github.io/Radio%20Tools)
 - [Reticulum](https://ae0gg.github.io/Reticulum)
 
-# Additional Tools
+# Direct Links
 
 ### General
 - [American Radio Relay League (ARRL)](https://www.arrl.org/)
