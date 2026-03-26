@@ -4,4 +4,4 @@ theme: jekyll-theme-slate
 baseurl: ""
 navigation:
 - title: Home
-url: /
+  url: /
