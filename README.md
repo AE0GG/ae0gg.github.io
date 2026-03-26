@@ -1,10 +1,10 @@
 # Table of Contents
-[ARRL Examinations](https://ae0gg.github.io/ARRL%20Examinations)
-[Amateur Radio Emergency Data Network (AREDN)](https://ae0gg.github.io/Amateur%20Radio%20Emergency%20Data%20Network%20(AREDN))<br>
-[Amateur Radio Emergency Service (ARES)](https://ae0gg.github.io/Amateur%20Radio%20Emergency%20Service%20(ARES))<br>
-[Automatic Packet Reporting System (APRS)](https://ae0gg.github.io/Automatic%20Packet%20Reporting%20System%20(APRS))<br>
-[Auxiliary Communications Service (ACS)](https://ae0gg.github.io/Auxiliary%20Communication%20Service%20(ACS))
-[Continuous Wave (CW) - Morse Code](https://ae0gg.github.io/Continuous%20Wave%20(CW)%20-%20Morse%20Code)
+- [ARRL Examinations](https://ae0gg.github.io/ARRL%20Examinations)
+- [Amateur Radio Emergency Data Network (AREDN)](https://ae0gg.github.io/Amateur%20Radio%20Emergency%20Data%20Network%20(AREDN))
+- [Amateur Radio Emergency Service (ARES)](https://ae0gg.github.io/Amateur%20Radio%20Emergency%20Service%20(ARES))
+- [Automatic Packet Reporting System (APRS)](https://ae0gg.github.io/Automatic%20Packet%20Reporting%20System%20(APRS))
+- [Auxiliary Communications Service (ACS)](https://ae0gg.github.io/Auxiliary%20Communication%20Service%20(ACS))
+- [Continuous Wave (CW) - Morse Code](https://ae0gg.github.io/Continuous%20Wave%20(CW)%20-%20Morse%20Code)
 - [General Mobile Radio Service (GMRS)](https://ae0gg.github.io/General%20Mobile%20Radio%20Service%20(GMRS))
 - [High Frequency (HF)](https://ae0gg.github.io/High%20Frequency%20(HF))
 - [MeshCore](https://ae0gg.github.io/MeshCore)
