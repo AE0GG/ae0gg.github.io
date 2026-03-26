@@ -1,3 +1,8 @@
+---
+layout: default
+title: Amateur Radio Emergency Service (ARES)
+---
+
 # Amateur Radio Emergency Service (ARES)
 Google AI Overview
 > The Amateur Radio Emergency Service (ARES) is a volunteer organization of licensed amateur radio operators who provide backup, auxiliary communications for public safety, government, and non-profit agencies (like the Red Cross) during emergencies, disasters, and planned public service events. ARES supports local, state, and national, needs when traditional communication infrastructure fails.
