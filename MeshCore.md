@@ -70,8 +70,8 @@ Official [Website](https://meshcore.nz/) & [Discord](https://discord.gg/bSuST8xv
 
 ----------
 
-Related: [Meshtastic](https://github.com/AE0GG/main/blob/main/Meshtastic.md) & [Reticulum](https://github.com/AE0GG/main/blob/main/Reticulum.md)
+Related: [Meshtastic](https://ae0gg.github.io/Meshtastic) & [Reticulum](https://ae0gg.github.io/Reticulum)
 
-Return to main [PuNk Radio](https://github.com/AE0GG/main/blob/main/PuNk_Radio.md) page
+Return to main [PuNk Radio](https://ae0gg.github.io) page
 
 Have information to add, edit, or update? Need something deleted? [Leave feedback](https://forms.gle/VdfJDC5vi1kbXSSW6)
