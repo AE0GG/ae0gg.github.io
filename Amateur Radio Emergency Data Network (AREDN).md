@@ -21,6 +21,10 @@ Official [Website](https://www.arednmesh.org/)
 - [Facebook Group](https://www.facebook.com/groups/aredn/)
 - [Groups.io](https://groups.io/g/AREDN/wiki)
 - [What is AREDN? YouTube Video by Ham Radio Crash Course](https://www.youtube.com/live/4ezz-riTpXE?si=YWSswgdgcEfLhycq)
+- [ARRL ARES Info](https://www.arrl.org/ares)
+- [Find An ARES Group](https://www.arrl.org/find-an-ares-group)
+- 
+- 
 
 ----------
 
