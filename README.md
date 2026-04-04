@@ -1,3 +1,5 @@
+![PuNk Radio Logo](./punk-radio-logo.png)
+
 # Resource Pages
 - [ARRL Examinations](https://ae0gg.github.io/ARRL%20Examinations)
 - [Amateur Radio Emergency Data Network (AREDN)](https://ae0gg.github.io/Amateur%20Radio%20Emergency%20Data%20Network%20(AREDN))
